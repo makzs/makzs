@@ -4,7 +4,7 @@
 
 🌱 Estudando Java, C#, Javascript e PHP
 
-<img align="left" alt="my stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=makzs&show_icons=true&theme=tokyonight">
+<img align="left" alt="my stats" width="53%" src="https://github-readme-stats.vercel.app/api?username=makzs&show_icons=true&theme=tokyonight">
 
 <img align="right" alt="my " width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makzs&layout=compact&theme=tokyonight">
 
