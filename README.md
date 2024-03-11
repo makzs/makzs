@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá! Me chamo Erik 👋
+
+🔭 Atualmente  buscando um estágio e novos desafios
+🌱 Estudando Java, C#, Javascript e PHP
+
+[![makzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=makzs)](https://github.com/makzs/github-readme-stats)
+
 
 <!--
 **makzs/makzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
