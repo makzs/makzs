@@ -6,11 +6,11 @@
 
 <div align="center">
   
-🎯 Desenvolvedor de software focando em seus estudos!
+🎯 Desenvolvedor .NET
   
-🌱 Atualmente aprendendo Java, C#, PHP e SQL
+🌱 Focando os estudos em backend C#
 
-🔭 Buscando um estágio e novas tecnologias para aprender
+🔭 Buscando um estágio e novos desafios
 
 📫 Entre em contato comigo:
  </div>
@@ -32,8 +32,8 @@
 </div>
 
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=,html,css,javascript,vscode,github,git," />
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,php,mysql" /><br>
 </div>
 
 <hr>
