@@ -48,14 +48,6 @@
 
 <hr>
 
-<div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <!--
 **makzs/makzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
